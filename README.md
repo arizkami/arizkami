@@ -1,6 +1,6 @@
 - Name: Nonthaphat Boonjua
 - Born: 2001
-- Programming Languages: JS / TS / C#
+- Programming Languages: JS / TS / C# / Python
 
 ## Website
 [Zerine](http://zerine.extsalt.net/) / 
@@ -13,6 +13,8 @@
 - C# / .NET (Visual Studio)
 - Electron + React (Cross Platform WEB App)
 - Tauri + React (Cross Platform WEB App + Rust)
+- Python Application & PythonQt Application 
+
 
 <!---
 Rinechxn/Rinechxn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
