@@ -3,9 +3,8 @@
 - Programming Languages: JS / TS / C# / Python
 
 ## Website
-**Rodhare**Stage Web (Coming Soon...)
-
-**Snip**Tube (Work in progress)
+- **Rodhare**Stage Web (Coming Soon...) 
+- **Snip**Tube (Work in progress)
 
 ### Web Developments
 - Using React / Next.JS / Vite / Firebase / MongoDB / TailwindCSS
