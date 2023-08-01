@@ -3,17 +3,17 @@
 - Programming Languages: JS / TS / C# / Python
 
 ## Website
-[Zerine](http://zerine.extsalt.net/) / 
-[NEiX - Portfolio (Work in Progress..)](http://nailordx.com/)
+**Rodhare**Stage Web (Coming Soon...)
+**Snip**Tube (Work in progress)
 
 ### Web Developments
-- Using React / Next.JS / Firebase / TailwindCSS
+- Using React / Next.JS / Vite / Firebase / MongoDB / TailwindCSS
 
 ### Application Development
 - C# / .NET (Visual Studio)
 - Electron + React (Cross Platform WEB App)
 - Tauri + React (Cross Platform WEB App + Rust)
-- Python Application & PythonQt Application 
+- Python Application & PythonQt Application
 
 
 <!---
