@@ -1,4 +1,4 @@
-- Name: Nonthaphat Boonjua
+- Name: Nawapon Boonjua
 - Born: 2001
 - Programming Languages: JS / TS / C# / Python
 
