@@ -3,17 +3,19 @@
 - Programming Languages: JS / TS / C# / Python
 
 ## Website
-- **Rodhare**Stage Web (Coming Soon...) 
-- **Snip**Tube (Work in progress)
+- **Music Straming** (NEiX's Song Database) (Under Development) 
+- **StageHub** Streaming & Store Platform (Work in Progress)
 
 ### Web Developments
-- Using React / Next.JS / Vite / Firebase / MongoDB / TailwindCSS
+- Using React / Next.JS / Express.js / SQLite / TailwindCSS
 
 ### Application Development
 - C# / .NET (Visual Studio)
 - Electron + React (Cross Platform WEB App)
 - Tauri + React (Cross Platform WEB App + Rust)
 - Python Application & PythonQt Application
+- Qt C++ Application
+- Juce C++ Audio Plugins
 
 
 <!---
