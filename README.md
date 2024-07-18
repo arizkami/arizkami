@@ -5,7 +5,7 @@
 - **Programming Languages:** JS / TS / C# / Python / C++
 - **Music Producer / Artist of HSC Music Digital**
 
-**Music Prodction Portfolio** [Watch Here](https://github.com/Rinechxn/Portfolio)
+**Music Production Portfolio** [Watch Here](https://github.com/Rinechxn/Portfolio)
 
 ## Website
 - **Music Straaming** (NEiX's Song Database) 
