@@ -1,10 +1,14 @@
-- Name: Nawapon Boonjua
-- Born: 2001
-- Programming Languages: JS / TS / C# / Python
+## My Profile
+
+- **Name:** Nawapon Boonjua
+- **Born:** 15/12/2001
+- **Programming Languages:** JS / TS / C# / Python / C++
+- **Music Producer / Artist of HSC Music Digital**
+
+**Music Prodction Portfolio** [Watch Here](https://github.com/Rinechxn/Portfolio)
 
 ## Website
-- **Music Straming** (NEiX's Song Database) (Under Development) 
-- **StageHub** Streaming & Store Platform (Work in Progress)
+- **Music Straaming** (NEiX's Song Database) 
 
 ### Web Developments
 - Using React / Next.JS / Express.js / SQLite / TailwindCSS
