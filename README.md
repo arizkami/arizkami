@@ -8,7 +8,7 @@
 **Music Production Portfolio** [Watch Here](https://github.com/Rinechxn/Portfolio)
 
 ## Website
-- **Music Straaming** (NEiX's Song Database) 
+- **Music Streaming** (NEiX's Song Database) 
 
 ### Web Developments
 - Using React / Next.JS / Express.js / SQLite / TailwindCSS
