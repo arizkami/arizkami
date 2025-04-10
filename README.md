@@ -3,7 +3,7 @@
 - **Name:** Nawapon Boonjua
 - **Born:** 15/12/2001
 - **Programming Languages:** JS / TS / C# / Python / C++
-- **Music Producer / Artist of HSC Music Digital**
+- **Music Producer / Artist of Khaoniewji Production**
 
 **Music Production Portfolio** [Watch Here](https://github.com/Rinechxn/Portfolio)
 
@@ -20,6 +20,11 @@
 - Python Application & PythonQt Application
 - Qt C++ Application
 - Juce C++ Audio Plugins
+
+## Roadmap Project
+- Futureboard Studio (Electron App + React)
+- Audio Plugin Project (Native and Web)
+- Opensampler - Open-Source Sampling Intrument Platform
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinechxn&layout=compact)
 <!---
