@@ -3,7 +3,7 @@
 - **Name:** Nawapon Boonjua
 - **Born:** 15/12/2001
 - **Programming Languages:** JS / TS / C# / Python / C++
-- **Music Producer / Artist of Khaoniewji Production**
+- **Music Producer / Artist
 
 **Music Production Portfolio** [Watch Here](https://github.com/Rinechxn/Portfolio)
 
