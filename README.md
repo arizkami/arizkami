@@ -3,12 +3,9 @@
 - **Name:** Nawapon Boonjua
 - **Born:** 15/12/2001
 - **Programming Languages:** JS / TS / C# / Python / C++
-- **Music Producer / Artist
+- **Music Producer / Artist**
 
 **Music Production Portfolio** [Watch Here](https://github.com/arizkami/Portfolio)
-
-## Website
-- **Music Streaming** (NEiX's Song Database) 
 
 ### Web Developments
 - Using React / Next.JS / Express.js / SQLite / TailwindCSS
@@ -16,15 +13,14 @@
 ### Application Development
 - C# / .NET (Visual Studio)
 - Electron + React (Cross Platform WEB App)
+- CEF Application C++
 - Tauri + React (Cross Platform WEB App + Rust)
 - Python Application & PythonQt Application
 - Qt C++ Application
 - Juce C++ Audio Plugins
 
 ## Roadmap Project
-- Futureboard Studio (Electron App + React)
-- Audio Plugin Project (Native and Web)
-- Opensampler - Open-Source Sampling Intrument Platform
+- MikoView: WebView Framework with CEF and SDL2
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arizkami&layout=compact)
 <!---
