@@ -23,7 +23,7 @@
 - MikoView: WebView Framework with CEF and SDL2
 - MikoCSS: A powerful multi-platform styling library generator that brings modern CSS-like utilities to C++ GUI frameworks and web development
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arizkami&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arizkami&layout=compact&theme=radical)
 <!---
 Rinechxn/Rinechxn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
