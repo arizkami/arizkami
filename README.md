@@ -8,20 +8,18 @@
 **Music Production Portfolio** [Watch Here](https://github.com/arizkami/Portfolio)
 
 ### Web Developments
-- Using React / Next.JS / Express.js / SQLite / TailwindCSS
+- Using React / Next.JS / Express.js / SQLite / TailwindCSS / Solid.js
 
 ### Application Development
 - C# / .NET (Visual Studio)
 - Electron + React (Cross Platform WEB App)
 - CEF Application C++
-- Tauri + React (Cross Platform WEB App + Rust)
-- Python Application & PythonQt Application
+- Python Application & Python Qt Application
 - Qt C++ Application
 - Juce C++ Audio Plugins
 
 ## Roadmap Project
-- MikoView: WebView Framework with CEF and SDL2
-- MikoCSS: A powerful multi-platform styling library generator that brings modern CSS-like utilities to C++ GUI frameworks and web development
+- MikoIDE: A modern, cross-platform Integrated Development Environment (IDE) built with cutting-edge web technologies and native performance.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arizkami&layout=compact&theme=radical)
 <!---
