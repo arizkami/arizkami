@@ -12,8 +12,7 @@
 
 ### Application Development
 - C# / .NET (Visual Studio)
-- Electron + React (Cross Platform WEB App)
-- CEF Application C++
+- CEF + React (Cross Platform WEB App with Chromium Embeded)
 - Python Application & Python Qt Application
 - Qt C++ Application
 - Juce C++ Audio Plugins
