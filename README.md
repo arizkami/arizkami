@@ -1,23 +1,24 @@
-## My Profile
+# Hi there, I'm Nawaphol Bunchuea 👋
 
-- **Name:** Nawapon Boonjua
-- **Born:** 15/12/2001
-- **Programming Languages:** JS / TS / C# / Python / C++
+### 🛠️ Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
-### Web Developments
-- Using React / Next.JS / Express.js / SQLite / PostgreSQL / TailwindCSS / Solid.js
+### 💻 Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![Solid.js](https://img.shields.io/badge/Solid.js-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb)
+<br/>
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Application Development
-- C# / .NET (Visual Studio)
-- CEF + React (Cross Platform WEB App with Chromium Embeded)
-- Python Application & Python Qt Application
-- Qt C++ Application
-- Juce C++ Audio Plugins
+### 🚀 Application Development
+- **.NET & Visual Studio:** C# / .NET Ecosystem
+- **Desktop Cross-Platform:** CEF (Chromium Embedded Framework) + React
+- **Python Apps:** General & Qt Framework
+- **Native C++:** Qt Application & Juce Audio Plugins
 
-## Roadmap Project
-- Hyperion: A modern, cross-platform Integrated Development Environment (IDE) built with cutting-edge web technologies and native performance.
-- MochiOS: BSD-Based Operating System
-<!---
-Rinechxn/Rinechxn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🗺️ Roadmap Projects
+
+| Project | Description | Status |
+| :--- | :--- | :---: |
+| **Hyperion** | A modern, cross-platform IDE built with web tech & native performance. | 🚧 Dev |
+| **MochiOS** | Custom BSD-Based Operating System. | 🛠️ R&D |
