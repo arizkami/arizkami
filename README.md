@@ -20,5 +20,5 @@
 
 | Project | Description | Status |
 | :--- | :--- | :---: |
-| **Hyperion** | A modern, cross-platform IDE built with web tech & native performance. | 🚧 Dev |
-| **MochiOS** | Custom BSD-Based Operating System. | 🛠️ R&D |
+| **SphereEngine** | A modern, cross-platform GUI Framework in C++ with Skia-Based | 🚧 Dev |
+| **Futureboard Studio** | A web-native digital audio workstation with React UI, Rust DSP, and native plugin hosting. | 🚧 Dev |
